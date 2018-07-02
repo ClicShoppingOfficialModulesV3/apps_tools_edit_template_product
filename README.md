@@ -14,7 +14,7 @@ http://monsite/myAdmin/index.php?A&Tools\EditTemplateProduct
 
 Activate the module in Tools
 
-Marketplace link : https://www.clicshopping.net/forum/files/file/31-apps_tools_edit_template_product/
+Marketplace link : https://www.clicshopping.org/forum/files/file/31-apps_tools_edit_template_product/
 
 
 ![template](https://github.com/ClicShoppingOfficialModulesV3/apps_tools_edit_template_product/blob/master/ModuleInfosJson/template.png)
